@@ -299,7 +299,7 @@ if __name__ == "__main__":
         if nm == 0:
             continue
 
-        if "olivia" in str(nm).lower():  # or "" in str(nm).lower():
+        if "livvy" in str(nm).lower():  # or "" in str(nm).lower():
             print("Hey Brian, how can I help you...?")
             speak("Hey Brian, how can I help you...?")
 
