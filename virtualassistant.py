@@ -387,9 +387,9 @@ if __name__ == "__main__":
 
         if "who are you" in str(text).lower() or "define yourself" in str(text).lower():
             print(" ")
-            print("Hello, I'm Olivia. Your personal Assistant")
+            print("Hello, I'm Livvy. Your personal Assistant")
             print("I could get the date, time, day, open urls, open apps and all")
-            speak("Hello, I'm Olivia. Your personal Assistant")
+            speak("Hello, I'm Livvy. Your personal Assistant")
             speak("I could get the date, time, day, open yourls, open apps and all")
 
         if "time" in str(text).lower():  # or "tell the time" in str(text).lower() or "time kya hai" in str(text).lower():  # time
